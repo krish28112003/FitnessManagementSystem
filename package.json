@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+{
+  "name": "fitnessmanagementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+=======
+{
+  "name": "fitnessmanagementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+>>>>>>> 7beb4b9984a89b0b83cc81cfc5ae8343029d0ac8
