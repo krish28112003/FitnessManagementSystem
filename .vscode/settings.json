@@ -1,0 +1,9 @@
+{
+        "java.project.referencedLibraries": [
+                "lib/**/*.jar",
+                "s:\\Email Jar Java\\jaf-1_1_1\\jaf-1.1.1\\activation.jar",
+                "s:\\mysql-connector-j-8.2.0.jar",
+                "s:\\Email Jar Java\\annotations-24.0.0.jar",
+                "s:\\Email Jar Java\\javax.mail.jar"
+        ]
+}

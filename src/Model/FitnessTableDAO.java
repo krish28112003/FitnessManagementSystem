@@ -71,11 +71,7 @@ public class FitnessTableDAO {
         return f;
     }
 
-    /**
-     * @param loginDTO
-     * @return
-     * @throws IOException
-     */
+    
     public static byte[] getDietPlan(LoginDTO loginDTO) throws IOException {
         float maintainceCalorie = FitnessTableDAO.getMaintainceCalorie(loginDTO);
         try {
